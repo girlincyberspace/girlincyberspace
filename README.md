@@ -13,8 +13,5 @@ I'm a DevOps engineer focused on building scalable, automated cloud infrastructu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girlincyberspace&layout=compact)
 
 
-## 📫 Let's Connect
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@lizbeth_0g)
-
 ---
 "Learning and building something new every day!"  
